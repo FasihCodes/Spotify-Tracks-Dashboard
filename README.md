@@ -8,3 +8,5 @@ An interactive Spotify Dashboard to check the different tracks.
 💠HTML Cover Art
 💠DENEB Visuals
 💠PBI Format
+
+![Uploading Dashboard Image.png…]()
