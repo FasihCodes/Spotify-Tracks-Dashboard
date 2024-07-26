@@ -9,4 +9,4 @@ An interactive Spotify Dashboard to check the different tracks.
 💠DENEB Visuals
 💠PBI Format
 
-![Uploading Dashboard Image.png…]()
+
